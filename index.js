@@ -22,7 +22,7 @@ module.exports = function (src = 0) {
         let data = await build(obj)
         return new Promise((resolve, reject) => {
             end_path = end_path || getDateString() + ".html"
-            console.log(end_path)
+           
             fs.writeFile(end_path, data, 'utf8', (err) => {
                 if (err) {
 
