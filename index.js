@@ -13,7 +13,7 @@ module.exports = function (src = 0) {
         return module.src_path
     }
     module.buildToString = async function (obj) {
-       let data = await build(obj)
+       let data =  await build(obj)
         return data
 
     }

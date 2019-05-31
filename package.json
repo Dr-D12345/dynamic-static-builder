@@ -2,9 +2,13 @@
   "name": "dynamic-static-builder",
   "version": "1.0.0",
   "description": "",
-  "main": "lib.js",
+  "main": "index.js",
   "author": "Dr-D12345",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dr-D12345/dynamic-static-builder.git"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "fs": "0.0.1-security"
