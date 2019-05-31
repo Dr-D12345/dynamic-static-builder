@@ -84,7 +84,7 @@ Different optional syntax avaliable in future
 
 ## Syntax
 
-### setSRC(element)
+### setSrc(element)
 * **element**:
 	* Type: string
 	* the file location of the source template
