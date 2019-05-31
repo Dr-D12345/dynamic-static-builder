@@ -6,7 +6,7 @@ A Node js Libary for building static sites with dynamic data on the fly
 ## Installation 
 
 ```cmd 
-npm install dynamic-static-builder`
+npm install dynamic-static-builder
 ```
 ## Intro 
 The purpose of this library is to provide a minor templating system to allow server-side node js to generate static with dynamic data. This combines the benefits of dynamically rendering with the speed of static rendering. 
