@@ -1,16 +1,22 @@
 {
   "name": "dynamic-static-builder",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
-  "author": "Dr-D12345",
+  "author": "Derek Pastor",
   "license": "ISC",
   "repository": {
     "type": "git",
     "url": "https://github.com/Dr-D12345/dynamic-static-builder.git"
   },
+  "keywords": [
+    "Dynamic Rendering",
+    "Event Based Rendering",
+    "Static Rendering",
+    "Templating",
+    "File Generation"
+  ],
   "dependencies": {
-    "express": "^4.17.1",
     "fs": "0.0.1-security"
   }
 }
