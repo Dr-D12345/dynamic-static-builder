@@ -5,7 +5,7 @@ module.exports = function (src = 0) {
     if (src != 0) {
         module.src_path = src
     }
-    module.setScr = function (path) {
+    module.setSrc = function (path) {
 
         module.src_path = path;
     }
