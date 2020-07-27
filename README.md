@@ -1,3 +1,4 @@
+# If you link this check out my most recent library Statici for rendering client side js requests server-side
 # dynamic-static-builder
 
 A Node js Libary for building static sites with dynamic data on the fly
